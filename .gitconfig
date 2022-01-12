@@ -1,0 +1,5 @@
+[https]
+	proxy = 'socks5://127.0.0.1:7890'
+[user]
+	name = shuyi1981
+	email = shuyi.zhou@gmail.com
